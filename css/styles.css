@@ -49,6 +49,7 @@ body {
   border: 6px solid grey;
   box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.2);
   transition: all 0.8s ease-in-out;
+
 }
 
 /* Sample CSS for the WHY word */
@@ -80,225 +81,69 @@ body {
   font-family: 'Raleway Dots', sans-serif;
 }
 
-/* DID word */
-
-.didDLetter {
+.style0 {
+  color: blue;
+  font: italic bold 28px "Piazoll";
+  text-decoration: overline double orange;
 }
 
-.didILetter {
+.style1{
+  color: #145a56;
+  font: oblique 60px 'Ceviche One';
+  text-decoration: underline #f730aa;
+  text-transform:capitalize;
 }
 
-.didDTwoLetter {
+.style2 {
+  color: rgb(221, 197, 15);
+  font: normal 200 100px 'Raleway Dots'; 
+  text-transform: lowercase;
+}
+.style3 {
+   color: #ceaa27;
+   font: 12 42px 'Ceviche One';
+   text-decoration: line-through dotted 2px #fff;
 }
 
-/* THE word */
-
-.theTLetter {
+.style4 {
+  color: #551414;
+   font: 22 30px "Piazoll";
+   text-decoration: underline #fff;
+   text-transform:capitalize; 
 }
 
-.theHLetter {
+.style5 {
+  color: rgb(248, 172, 65);
+  font: normal 27px 'Raleway Dots'; 
+  text-decoration: line-through dotted 2px #fff;
+  text-transform: lowercase;
 }
 
-.theELetter {
+.style6 {
+  color: #81b2ba;
+   font: 90 30px "Piazoll";
+   text-decoration: line-through wavy 2px #c89e9e;
+   text-transform: capitalize; 
 }
 
-/* FRONT-END word */
+.style7 {
+  color: rgb(151, 113, 51);
+  font: bold 44px 'Raleway Dots'; 
+  text-transform: capitalize;
 
-.frontendFLetter {
-}
-
-.frontendRLetter {
-}
-
-.frontendOLetter {
 }
 
-.frontendNLetter {
+.style8{
+   color: #88ce27;
+   font: 12 42px 'Ceviche One';
+   text-decoration: underline dashed 2px #9d55e0;
+   text-transform: lowercase;
+
 }
 
-.frontendTLetter {
-}
-
-.frontendELetter {
-}
-
-.frontendNTwoLetter {
-}
-
-.frontendDLetter {
-}
-
-/* DEVELOPER word */
-
-.developerDLetter {
-}
-.developerELetter {
-}
-.developerVLetter {
-}
-.developerETwoLetter {
-}
-.developerLLetter {
-}
-.developerOLetter {
-}
-.developerPLetter {
-}
-.developerEThreeLetter {
-}
-.developerRLetter {
-}
-
-/* TAKE word */
-
-.takeTLetter {
-}
-.takeALetter {
-}
-.takeKLetter {
-}
-.takeELetter {
-}
-
-/* UP word */
-
-.upULetter {
-}
-.upPLetter {
-}
-
-/* GARDENING word */
-
-.gardeningGLetter {
-}
-.gardeningALetter {
-}
-.gardeningRLetter {
-}
-.gardeningDLetter {
-}
-.gardeningELetter {
-}
-.gardeningNLetter {
-}
-.gardeningILetter {
-}
-.gardeningNTwoLetter {
-}
-.gardeningGTwoLetter {
-}
-
-/* BECAUSE word */
-
-.becauseBLetter {
-}
-.becauseELetter {
-}
-.becauseCLetter {
-}
-.becauseALetter {
-}
-.becauseULetter {
-}
-.becauseSLetter {
-}
-.becauseETwoLetter {
-}
-
-/* THEY word */
-
-.theyTLetter {
-}
-.theyHLetter {
-}
-.theyELetter {
-}
-.theyYLetter {
-}
-
-/* WANTED word */
-
-.wantedWLetter {
-}
-.wantedALetter {
-}
-.wantedNLetter {
-}
-.wantedTLetter {
-}
-.wantedELetter {
-}
-.wantedDLetter {
-}
-
-/* TO word */
-
-.toTLetter {
-}
-.toOLetter {
-}
-
-/* IMPROVE word */
-
-.improveILetter {
-}
-.improveMLetter {
-}
-.improvePLetter {
-}
-.improveRLetter {
-}
-.improveOLetter {
-}
-.improveVLetter {
-}
-.improveELetter {
-}
-
-/* THEIR word */
-
-.theirTLetter {
-}
-.theirHLetter {
-}
-.theirELetter {
-}
-.theirILetter {
-}
-.theirRLetter {
-}
-
-/* ROOT word */
-
-.rootRLetter {
-}
-.rootOLetter {
-}
-.rootOTwoLetter {
-}
-.rootTLetter {
-}
-
-/* SKILLS word */
-
-.skillsSLetter {
-}
-.skillsKLetter {
-}
-.skillsILetter {
-}
-.skillsLLetter {
-}
-.skillsLTwoLetter {
-}
-.skillsSTwoLetter {
-}
-
-/* SYMBOLS */
-
-.hyphen {
-}
-.exclamation-mark {
-}
-.question-mark {
+.style9 {
+   color: #9c3673;
+   font: 90% 80px 'Ceviche One';
+   text-decoration: overline dotted 4px rgb(112, 80, 181)f;
+  
 }
